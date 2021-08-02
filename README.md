@@ -6,6 +6,6 @@ This is a blockchain based crowdfunding application which deals with real world 
    * npm install
    * npm run test
    * npm run dev
-3. copy the url from the command line(localhost:3000) and paste it in your browser. Wait for a while, for it to load up(takes about 60-70 secs) and then you should be ready to go</br>
+3. copy the url from the command line(localhost:3000) and paste it in your browser. Wait for a while for it to load up(takes about 60-70 secs) and then you should be ready to go</br>
 ### Have fun ###
 #### see ya ####
